@@ -31,8 +31,8 @@ Spacia is a model for inferring cell-cell interactions from spatial transcriptom
 
 ## 📝 Publications
 
-1. [Zhu, J.*, Wang, Y.*, Chang, W.*, ... & Wang, T. (2024). Mapping Cell-to-cell Interactions from Spatially Resolved Transcriptomics Data. Nature Methods. (Accepted)](https://doi.org/10.1101/2023.09.18.558298)
-2. [Zhang, Z.*, Chang, W.*, ... & Wang, T. (2022). Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse. Nature Machine Intelligence, 1-9.](https://doi.org/10.1038/s42256-022-00492-6)
+1. [Zhu, J.\*, Wang, Y.\*, Chang, W.\*, ... & Wang, T. (2024). Mapping Cell-to-cell Interactions from Spatially Resolved Transcriptomics Data. Nature Methods. (Accepted)](https://doi.org/10.1101/2023.09.18.558298)
+2. [Zhang, Z.\*, Chang, W.\*, ... & Wang, T. (2022). Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse. Nature Machine Intelligence, 1-9.](https://doi.org/10.1038/s42256-022-00492-6)
 3. [Lim, M. N., Lee, S. E., Chang, W., Yoon, I. S., & Hwang, Y. S. (2021). Comparison of transcriptomic adjustments to availability of sugar, cellular energy, and oxygen in germinating rice embryos. Journal of Plant Physiology, 264, 153471.](https://doi.org/10.1016/j.jplph.2021.153471)
 
 \* indicates co-first authorship
