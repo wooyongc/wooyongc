@@ -1,43 +1,45 @@
 # Woo Yong "Noah" Chang
 
-👋 Hi, I'm Woo Yong "Noah" Chang, a computational biologist and data scientist specializing in advanced machine learning techniques for complex biomedical data analysis.
+I'm a computational biologist focused on single-cell and spatial biology, and on building AI systems that make that kind of analysis faster and more reliable. My published work develops statistical and deep-learning methods for problems like cell-to-cell communication and immune-repertoire analysis.
 
-## 🎓 Education
+Currently, I'm a postdoctoral scholar at Johnson & Johnson, in Immunology Discovery, where the work runs on two tracks: single-cell and spatial analysis for target and biology discovery, and agentic AI infrastructure that makes that research faster and more reliable. Before this, I interned in gCS at Genentech, and completed my PhD in the Computational Tumor Immunology Lab under Dr. Tao Wang.
 
-- Ph.D. in Biomedical Engineering (Computational Biology Track), University of Texas Southwestern Medical Center (Expected Aug 2025)
-- M.S. in Automated Science: Biological Experimentation, Carnegie Mellon University (2021)
+## Background
 
-## 🔬 Research Experience
+- Ph.D., Biomedical Engineering (Computational Biology Track), UT Southwestern Medical Center (2025)
+- M.S., Automated Science: Biological Experimentation, Carnegie Mellon University, SCS (2021)
+- B.S., Systems Biotechnology, Konkuk University (2019)
 
-Currently working as a Ph.D. Candidate at UT Southwestern Medical Center in the Computational Tumor Immunology Lab under Dr. Tao Wang. My research focuses on:
+## Interests
 
-- Developing deep learning models for integrating single-cell expression and B-cell receptor sequencing data
-- Creating innovative tools for cell-to-cell interaction analysis in spatial transcriptomics
-- CyTOF analysis to characterize novel proteins in Acute Myeloid Leukemia
+- Agentic AI for scientific workflows: agent harnesses, memory systems, and audit and evaluation tooling for reproducible, trustable AI in research
+- Spatial transcriptomics and single-cell multiomics target discovery and method development
+- Foundation-model fine-tuning for cell-type annotation and translational analysis
+- TCR/BCR repertoire analysis and multimodal integration
 
-## 🚀 Projects
-
-### Benisse
-
-Benisse (BCR embedding graphical network informed by scRNA-Seq) is a powerful tool for analyzing B cell receptors (BCRs) guided by single-cell gene expression. It employs a deep contrastive learning model to numerically embed BCR CDR3H amino acid sequences and uses a sparse graph learning model to capture mutual information between BCRs and single B cell expression.
-
-[Link to Benisse Project](https://github.com/wooyongc/Benisse)
+## Projects
 
 ### Spacia
 
-Spacia is a model for inferring cell-cell interactions from spatial transcriptomics data. It uses a Bayesian multi-instance learning (MIL) framework to assess intercellular communication between cells and their neighbors, prioritizing interactions that cause downstream changes in cells.
+A Bayesian multi-instance learning framework for inferring cell-to-cell interactions from spatial transcriptomics, prioritizing signals that drive downstream changes in receiver cells. Published in *Nature Methods*.
 
-[Link to Spacia Project](https://github.com/yunguan-wang/Spacia)
+https://github.com/yunguan-wang/Spacia
 
-## 📝 Publications
+### Benisse
 
-1. [Zhu, J.\*, Wang, Y.\*, Chang, W.\*, ... & Wang, T. (2024). Mapping Cell-to-cell Interactions from Spatially Resolved Transcriptomics Data. Nature Methods. (Accepted)](https://doi.org/10.1101/2023.09.18.558298)
-2. [Zhang, Z.\*, Chang, W.\*, ... & Wang, T. (2022). Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse. Nature Machine Intelligence, 1-9.](https://doi.org/10.1038/s42256-022-00492-6)
-3. [Lim, M. N., Lee, S. E., Chang, W., Yoon, I. S., & Hwang, Y. S. (2021). Comparison of transcriptomic adjustments to availability of sugar, cellular energy, and oxygen in germinating rice embryos. Journal of Plant Physiology, 264, 153471.](https://doi.org/10.1016/j.jplph.2021.153471)
+A tool that embeds B-cell receptor CDR3H sequences using contrastive learning and applies sparse graph modeling to capture the relationship between BCRs and single-cell gene expression. Published in *Nature Machine Intelligence*.
 
-\* indicates co-first authorship
+https://github.com/wooyongc/Benisse
 
-## 📫 How to reach me
+## Publications
 
-- LinkedIn: [wooyongchang](https://www.linkedin.com/in/wooyongchang/)
-- GitHub: [wooyongc](https://github.com/wooyongc)
+1. Zhu, J.*, Wang, Y.*, Chang, W.*, … & Wang, T. (2024). Mapping cellular interactions from spatially resolved transcriptomics data. *Nature Methods.* https://doi.org/10.1101/2023.09.18.558298
+2. Zhang, Z.*, Chang, W.*, … & Wang, T. (2022). Interpreting the B-cell receptor repertoire with single-cell gene expression using Benisse. *Nature Machine Intelligence.* https://doi.org/10.1038/s42256-022-00492-6
+3. Lim, M. N., Lee, S. E., Chang, W., Yoon, I. S., & Hwang, Y. S. (2021). Comparison of transcriptomic adjustments to availability of sugar, cellular energy, and oxygen in germinating rice embryos. *Journal of Plant Physiology.* https://doi.org/10.1016/j.jplph.2021.153471
+
+\* co-first authorship
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/wooyongchang/
+- GitHub: https://github.com/wooyongc
